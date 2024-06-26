@@ -1,0 +1,51 @@
+.uno{
+    
+    background-color: #E2E2E2;
+    height: 100px;
+    color: white;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    
+}
+.dos{
+    
+    background-color: FFF0AC ;
+    height: 100px;
+    color: white;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    
+}
+.tres{
+    
+    background-color: #D1EAFF ;
+    height: 200px;
+    color: white;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    
+}
+.cuatro{
+    
+    background-color: yellow;
+    height: 100px;
+    color: white;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    
+}
+
+
+
